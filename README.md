@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DimV3rs3
+- 👀 I’m interested in programming on C#
+- 🌱 I’m currently learning C# features
+- 📫 How to reach me: [Telegram](https://t.me/DimVerse); [Discord](https://discordapp.com/users/1071512529454510170)
